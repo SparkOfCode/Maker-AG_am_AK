@@ -1,19 +1,18 @@
 namespace MakerAG {
 
 //% block
-    let testvar = 0
     /**
-     * Displays a greeting for the player to read.
+     * Setze den Greifer von der aktuellen auf eine neue Position
      */
-    export function Greifer (Position2: number, Ziel: number) {
-    while (Position2 < Ziel) {
-        Position2 += 1
-        calliBot2.servo(C2Servo.Servo1, Position2)
+    export function Greifer (Position: number, Ziel: number) {
+    while (Position < Ziel) {
+        Position += 1
+        calliBot2.servo(C2Servo.Servo1, Position)
         basic.pause(30)
     }
-    while (Position2 > Ziel) {
-        Position2 += -1
-        calliBot2.servo(C2Servo.Servo1, Position2)
+    while (Position > Ziel) {
+        Position += -1
+        calliBot2.servo(C2Servo.Servo1, Position)
         basic.pause(30)
     }
     }
