@@ -2,7 +2,6 @@ namespace MakerAG {
 
     //%block
 
-    export let testvar = 0
     export function Greifer(Position2: number, Ziel: number) {
         while (Position2 < Ziel) {
             Position2 += 1
