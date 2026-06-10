@@ -1,5 +1,9 @@
 namespace MakerAG {
 
+
+    /**
+     * Bietet Zugriff auf die grundlegende micro:bit Funktion.
+     */
     //%block
 
     export function Greifer(Position2: number, Ziel: number) {
