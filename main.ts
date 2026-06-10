@@ -1,8 +1,7 @@
 namespace MakerAG {
 
     //%block
-    let Position = 0
-    function Greifer(Position: number, Ziel: number) {
+    export function Greifer(Position: number, Ziel: number) {
         while (Position < Ziel) {
             Position += 1
             calliBot2.servo(C2Servo.Servo1, Position)
@@ -16,5 +15,5 @@ namespace MakerAG {
     }
 }
 basic.forever(function () {
-
+	
 })
