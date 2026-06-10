@@ -1,7 +1,6 @@
 namespace MakerAG {
 
 //% block
-    let testvar = 0
     /**
      * Displays a greeting for the player to read.
      */
