@@ -1,0 +1,30 @@
+{
+    "name": "Greifer2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "callibot": "github:mkleinsb/pxt-callibot#v2.1.1",
+        "funk": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "master",
+        "tag": "v8.1.13",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/451f598d7a210a23a808817ee5ce103a0522fdbb",
+        "target": "8.1.13",
+        "pxt": "12.3.7",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
