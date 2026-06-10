@@ -12,8 +12,5 @@ function Greifer (Ziel: number) {
     }
 }
 basic.forever(function () {
-    Greifer(120)
-    basic.pause(1000)
-    Greifer(60)
-    basic.pause(1000)
+	
 })
