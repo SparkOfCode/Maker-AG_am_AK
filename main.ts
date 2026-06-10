@@ -2,6 +2,8 @@ namespace MakerAG {
 
 //% block
     export let Position2 = 2
+
+//% block
     /**
      * Displays a greeting for the player to read.
      */
