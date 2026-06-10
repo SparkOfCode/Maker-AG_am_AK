@@ -1,4 +1,4 @@
-//% weight=70 icon="\f0eb" color=#EC7505
+//% weight=70 icon="/f0eb"
 namespace MakerAG {
 
     //%block
