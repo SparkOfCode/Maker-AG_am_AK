@@ -1,10 +1,11 @@
 namespace MakerAG {
 
+let Position = 0
 //% block
     /**
      * Setze den Greifer von der aktuellen auf eine neue Position
      */
-    export function Greifer (Position: number, Ziel: number) {
+    export function Greifer (Ziel: number) {
 
     while (Position < Ziel) {
         Position += 1
