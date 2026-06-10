@@ -1,4 +1,3 @@
-let Position2 = 1
 function Greifer (Position2: number, Ziel: number) {
     while (Position2 < Ziel) {
         Position2 += 1
@@ -11,6 +10,7 @@ function Greifer (Position2: number, Ziel: number) {
         basic.pause(30)
     }
 }
+let Position2 = 2
 basic.forever(function () {
 	
 })
