@@ -1,13 +1,10 @@
 namespace MakerAG {
 
 //% block
-    export let Position2 = 2
-
-//% block
     /**
      * Displays a greeting for the player to read.
      */
-    export function Greifer (Ziel: number) {
+    export function Greifer (Position2: number, Ziel: number) {
     while (Position2 < Ziel) {
         Position2 += 1
         calliBot2.servo(C2Servo.Servo1, Position2)
