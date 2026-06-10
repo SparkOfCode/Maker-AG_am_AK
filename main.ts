@@ -5,7 +5,7 @@ function Greifer (Position2: number, Ziel: number) {
         calliBot2.servo(C2Servo.Servo1, Position2)
         basic.pause(30)
     }
-    while (Position2 < Ziel) {
+    while (Position2 > Ziel) {
         Position2 += -1
         calliBot2.servo(C2Servo.Servo1, Position2)
         basic.pause(30)
