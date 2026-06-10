@@ -1,7 +1,7 @@
 namespace MakerAG {
 
     //%block
-    export let vglobal = 0
+
     export function Greifer(Position2: number, Ziel: number) {
         while (Position2 < Ziel) {
             Position2 += 1
