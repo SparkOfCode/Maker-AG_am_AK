@@ -1,4 +1,6 @@
+//% weight=70 icon="\f0eb" color=#EC7505
 namespace MakerAG {
+
     //%block
     export function Greifer(Ziel: number, Position: number) {
         while (Position < Ziel) {
