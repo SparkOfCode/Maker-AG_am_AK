@@ -1,8 +1,5 @@
 namespace MakerAG {
 
-    /**
-     * Setzt den Greifer auf eine neue Position
-     */
     //%block
     export function Greifer(Position: number, Ziel: number) {
         while (Position < Ziel) {
