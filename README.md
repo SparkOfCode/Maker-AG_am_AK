@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://sparkofcode.github.io/maker-ag_am_ak/](https://sparkofcode.github.io/maker-ag_am_ak/) öffnen
+> Diese Seite bei [https://sparkofcode.github.io/maker-ag_am_ak/](https://sparkofcode.github.io/makerAG/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -8,7 +8,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
 * klicke auf **Neues Projekt**
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/sparkofcode/maker-ag_am_ak** suchen und importieren
+* nach **https://github.com/sparkofcode/makerAG** suchen und importieren
 
 ## Dieses Projekt bearbeiten
 
@@ -16,7 +16,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/sparkofcode/maker-ag_am_ak** ein und klicke auf Importieren
+* füge **https://github.com/sparkofcode/makerAG** ein und klicke auf Importieren
 
 #### Metadaten (verwendet für Suche, Rendering)
 
