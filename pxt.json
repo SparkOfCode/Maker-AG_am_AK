@@ -6,7 +6,8 @@
         "core": "*",
         "v3": "*",
         "callibot": "github:mkleinsb/pxt-callibot#v2.1.1",
-        "funk": "*"
+        "funk": "*",
+        "v2": "*"
     },
     "files": [
         "main.blocks",
